@@ -1,0 +1,2 @@
+# Angular-templatae
+angular template
